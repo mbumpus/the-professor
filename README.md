@@ -56,6 +56,10 @@ This repository contains:
 - `the_professor.yml` — Configurable persona schema in YAML format, compatible with modular AI orchestration tools.
 - `INSTRUCTION_BLOCK.md` — Ethical guidelines and interaction philosophy.
 - `LICENSE.txt` — Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+- `examples/` — Sample prompts and review output to illustrate real-world persona usage
+- `citation.bib` — BibTeX entry for academic citation
+- `CONTRIBUTING.md` — Guidelines for ethical, structured contributions
+
 
 
 ## 🔍 Purpose
