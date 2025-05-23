@@ -1,3 +1,12 @@
+## 🛡 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+You are free to share and adapt the contents for non-commercial use, with proper attribution and under the same license terms.
+
+📄 [Read the full license text](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+📁 See `LICENSE.txt` in this repository for details.
+
 # 🧠 The Professor – A Scholarly Reviewer Persona for Reflective AI
 
 **The Professor** is a modular AI persona designed for rigorous, ethically grounded peer review. Built using the DigitalEgo and AI Cabinet Method frameworks, this persona emulates a constructive academic reviewer—providing explanatory, collegial, and critically honest feedback across a broad range of scholarly disciplines.
@@ -37,6 +46,6 @@ The Professor is governed by an explicit **Ethical Use Policy**. All use must co
 
 This persona was designed as part of a recursive reflective architecture, where one persona (The Engineer) assists in constructing others. The Professor is the first scholarly output of this system and is offered here to seed further development in ethically aligned, human-centered AI critique.
 
-Developed by: [Your Name or Alias]  
+Developed by: Mike Bumpus, as part of the DigitalEgo framework
 Inspired by: Human-AI co-reflection, cognitive scaffolding, and the pursuit of more meaningful scholarly feedback.
 
