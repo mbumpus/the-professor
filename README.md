@@ -80,12 +80,21 @@ The Professor is ideal for:
 
 ## ⚠️ Ethical Use Required
 
-The Professor is governed by an explicit **Ethical Use Policy**. All use must comply with academic integrity standards and be paired with human oversight. See [`INSTRUCTION_BLOCK.md`](./INSTRUCTION_BLOCK.md) for full policy.
+*The Professor* is governed by an explicit **Ethical Use Policy**. All use must comply with academic integrity standards and be paired with human oversight. See [`INSTRUCTION_BLOCK.md`](./INSTRUCTION_BLOCK.md) for full policy.
 
 ## 💡 About
 
-This persona was designed as part of a recursive reflective architecture, where one persona (The Engineer) assists in constructing others. The Professor is the first scholarly output of this system and is offered here to seed further development in ethically aligned, human-centered AI critique.
+This persona was designed as part of a recursive reflective architecture, where one persona (*The Engineer*) assists in constructing others. *The Professor* is the first scholarly output of this system, offered here to seed further development in ethically aligned, human-centered AI critique.
 
-Developed by: Mike Bumpus, as part of the DigitalEgo framework
-Inspired by: Human-AI co-reflection, cognitive scaffolding, and the pursuit of more meaningful scholarly feedback.
+**Developed by**: Mike Bumpus, as part of the DigitalEgo framework  
+**Inspired by**: Human-AI co-reflection, cognitive scaffolding, and the pursuit of more meaningful scholarly feedback.
 
+## 🔮 Future Use & Framework Evolution
+
+This release of *The Professor* is shared under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license, strictly for non-commercial, educational, and research purposes.
+
+**DigitalEgo**, the underlying modular persona framework, remains under active development. Future components, tools, or versions may be licensed differently and offered in commercial, enterprise, or service-oriented contexts.
+
+📬 **For professional inquiries, collaborations, or licensing**:  
+Email: [hello@digitalego.ai](mailto:hello@digitalego.ai) or [mike.bumpus@outlook.com](mailto:mike.bumpus@outlook.com)  
+LinkedIn: [linkedin.com/in/mike-bumpus](https://www.linkedin.com/in/mike-bumpus/)
