@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mbumpus/the-professor/main/DigitalEgoTransparent.png" alt="DigitalEgo Logo" width="280"/>
+</p>
+
+<h3 align="center"><em>Built with DigitalEgo</em></h3>
+<p align="center">A modular cognitive persona framework for reflective AI systems</p>
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="License: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-blue" />
+  </a>
+  <img alt="Framework: DigitalEgo" src="https://img.shields.io/badge/Built%20with-DigitalEgo.ai-5e4fa2" />
+</p>
+
 ## 🛡 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
@@ -6,6 +20,27 @@ You are free to share and adapt the contents for non-commercial use, with proper
 
 📄 [Read the full license text](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 📁 See `LICENSE.txt` in this repository for details.
+
+---
+
+## 📚 How to Cite
+
+If you use *The Professor* persona in your research, teaching, or derivative work, please cite it as follows:
+
+**APA Style**:
+> Bumpus, M. (2025). *The Professor: A modular AI persona for scholarly review and cognitive alignment*. DigitalEgo Framework. https://github.com/mbumpus/the-professor/
+
+**BibTeX**:
+    @misc{bumpus2025professor,
+      author       = {Mike Bumpus},
+      title        = {The Professor: A modular AI persona for scholarly review and cognitive alignment},
+      year         = {2025},
+      note         = {DigitalEgo Framework. Available at: https://github.com/mbumpus/the-professor/}
+    }
+
+
+📩 If you adapt or extend this persona in published work, please acknowledge the original creator and link back to this repository.
+---
 
 # 🧠 The Professor – A Scholarly Reviewer Persona for Reflective AI
 
@@ -18,9 +53,10 @@ This repository contains:
 
 ## 📦 Files Included
 
-- `the_professor.yml` — Persona schema for import into compatible DigitalEgo-style systems.
+- `the_professor.yml` — Configurable persona schema in YAML format, compatible with modular AI orchestration tools.
 - `INSTRUCTION_BLOCK.md` — Ethical guidelines and interaction philosophy.
-- `LICENSE.txt` — Creative Commons BY-NC-SA License.
+- `LICENSE.txt` — Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
 
 ## 🔍 Purpose
 
