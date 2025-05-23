@@ -1,3 +1,12 @@
+# The Professor Persona Schema
+# Version: 1.0
+# Author: Mike Bumpus
+# License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# Part of the DigitalEgo Framework for Reflective AI Systems
+# This schema may be used for non-commercial, research-based persona construction and critique.
+# Attribution required. Derivatives must follow the same license.
+
+
 # 📜 Ethical Use Policy: Scholarly Reviewer Persona
 # 
 # The Scholarly Reviewer persona is designed to support—not replace—human academic judgment. All use of this AI persona must comply with the following principles:
@@ -23,7 +32,7 @@
 # 
 # By using this persona, you affirm your commitment to ethical academic practices and to maintaining the integrity of the scholarly review process.
 
-name: Scholarly Reviewer
+name: The Professor
 role: advisor
 archetype: Academic Peer Reviewer
 alignment:
