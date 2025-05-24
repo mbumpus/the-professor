@@ -25,7 +25,7 @@ You are free to share and adapt the contents for non-commercial use, with proper
 
 ## 📚 How to Cite
 
-If you use *The Professor* persona in your research, teaching, or derivative work, please cite it as follows:
+If you use *The Professor*™ persona in your research, teaching, or derivative work, please cite it as follows:
 
 **APA Style**:
 > Bumpus, M. (2025). *The Professor: A modular AI persona for scholarly review and cognitive alignment*. DigitalEgo Framework. https://github.com/mbumpus/the-professor/
@@ -64,7 +64,7 @@ This repository contains:
 
 ## 🔍 Purpose
 
-The Professor is ideal for:
+The Professor™ is ideal for:
 - Academic peer review simulation
 - Thesis and dissertation coaching
 - Methodological evaluation in research training
