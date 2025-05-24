@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mbumpus/the-professor/main/DigitalEgoTransparent.png" alt="DigitalEgo Logo" width="280"/>
 </p>
 
-<h3 align="center"><em>Built with DigitalEgo</em></h3>
+<h3 align="center"><em>Built with DigitalEgo</em>™</h3>
 <p align="center">A modular cognitive persona framework for reflective AI systems</p>
 
 <p align="center">
