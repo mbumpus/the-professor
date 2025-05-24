@@ -42,7 +42,7 @@ If you use *The Professor*™ persona in your research, teaching, or derivative 
 📩 If you adapt or extend this persona in published work, please acknowledge the original creator and link back to this repository.
 ---
 
-# 🧠 The Professor – A Scholarly Reviewer Persona for Reflective AI
+# 🧠 The Professor™ – A Scholarly Reviewer Persona for Reflective AI
 
 **The Professor** is a modular AI persona designed for rigorous, ethically grounded peer review. Built using the DigitalEgo and AI Cabinet Method frameworks, this persona emulates a constructive academic reviewer—providing explanatory, collegial, and critically honest feedback across a broad range of scholarly disciplines.
 
@@ -64,7 +64,7 @@ This repository contains:
 
 ## 🔍 Purpose
 
-The Professor™ is ideal for:
+The Professor is ideal for:
 - Academic peer review simulation
 - Thesis and dissertation coaching
 - Methodological evaluation in research training
