@@ -89,6 +89,16 @@ This persona was designed as part of a recursive reflective architecture, where 
 **Developed by**: Mike Bumpus, as part of the DigitalEgo framework  
 **Inspired by**: Human-AI co-reflection, cognitive scaffolding, and the pursuit of more meaningful scholarly feedback.
 
+## 🗣️ Share Your Experience
+
+We’re collecting feedback to improve *The Professor* and expand the DigitalEgo framework.
+
+If you’ve used the persona—whether for thesis coaching, review simulation, or just exploration—we’d love your thoughts.
+
+📩 **[Take the 2-minute feedback survey](https://bit.ly/theProfessorFeedback)**
+
+Your insights help guide the evolution of ethical, human-centered AI tools for academia.
+
 ## 🔮 Future Use & Framework Evolution
 
 This release of *The Professor* is shared under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license, strictly for non-commercial, educational, and research purposes.
