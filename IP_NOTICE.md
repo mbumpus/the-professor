@@ -11,5 +11,5 @@ However, the following remain the proprietary intellectual property of Mike Bump
 
 Use of The Professor™ persona in commercial platforms, enterprise deployments, or monetized services requires explicit written consent and a licensing agreement.
 
-🔒 Contact: [mike.bumpus@outlook.com](mailto:mike.bumpus@outlook.com)  
+🔒 Contact: [hello@digitalego.ai](mailto:hello@digitalego.ai)  
 🔗 Framework Overview: [DigitalEgo.ai](https://DigitalEgo.ai)
