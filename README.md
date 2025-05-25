@@ -106,5 +106,5 @@ This release of *The Professor* is shared under a **Creative Commons Attribution
 **DigitalEgo**, the underlying modular persona framework, remains under active development. Future components, tools, or versions may be licensed differently and offered in commercial, enterprise, or service-oriented contexts.
 
 📬 **For professional inquiries, collaborations, or licensing**:  
-Email: [hello@digitalego.ai](mailto:hello@digitalego.ai) or [mike.bumpus@outlook.com](mailto:mike.bumpus@outlook.com)  
+Email: [hello@digitalego.ai](mailto:hello@digitalego.ai) 
 LinkedIn: [linkedin.com/in/mike-bumpus](https://www.linkedin.com/in/mike-bumpus/)
