@@ -5,6 +5,8 @@ Author: Mike Bumpus
 License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 License URL: https://creativecommons.org/licenses/by-nc-sa/4.0/
 Part of the DigitalEgo Framework for Reflective AI Systems
+For questions or ethics feedback, contact: hello@digitalego.ai
+
 
 You may reuse or adapt this instruction block for research or non-commercial projects, provided you include appropriate attribution and release any modifications under the same license.
 -->
